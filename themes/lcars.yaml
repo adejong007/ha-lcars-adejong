@@ -266,6 +266,8 @@
   mdc-text-field-label-ink-color: var(--lcars-text-gray)
   mdc-text-field-fill-color: var(--lcars-ui-quaternary)
   mdc-text-field-ink-color: var(--lcars-text-gray)
+  mdc-select-fill-color: var(--card-background-color)
+  mdc-select-ink-color: var(--primary-text-color)
   #App Header
   app-header-edit-background-color: transparent
   app-header-text-color: var(--lcars-ui-app-header-text-color, black)
